@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intnet/business-plan/"}
+{"dg-publish":true,"permalink":"/intnet/business-plan/","dgPassFrontmatter":true}
 ---
 
 
