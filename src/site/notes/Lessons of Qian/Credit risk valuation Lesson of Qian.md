@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lessons-of-qian/credit-risk-valuation-lesson-of-qian/","title":"信用风险估值"}
+{"title":"信用风险估值","dg-publish":true,"permalink":"/lessons-of-qian/credit-risk-valuation-lesson-of-qian/","dgPassFrontmatter":true}
 ---
 
 
